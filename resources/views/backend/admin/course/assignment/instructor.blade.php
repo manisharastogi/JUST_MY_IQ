@@ -1,1 +1,0 @@
-<div>{{ $instructors->name }}</div>

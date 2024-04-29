@@ -1,3 +1,0 @@
-{{ $dataTable->table() }}
-
-{{ $dataTable->script() }}
